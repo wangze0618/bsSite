@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbs"]=self["webpackChunkbs"]||[]).push([[876],{2876:function(n,s,e){e.r(s),e.d(s,{default:function(){return c}});var t=e(3396);const u={class:"nwes"};var r={__name:"index",setup(n){return(n,s)=>((0,t.wg)(),(0,t.iD)("div",u,"新闻资讯页"))}};const a=r;var c=a}}]);
+//# sourceMappingURL=876.2a9af7f9.js.map
